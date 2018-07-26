@@ -1,6 +1,6 @@
 {
-  "name": "angular-pwa-app",
-  "short_name": "angular-pwa-app",
+  "name": "My first Angular PWA",
+  "short_name": "ng pwa app",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
